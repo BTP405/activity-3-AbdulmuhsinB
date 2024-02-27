@@ -6,3 +6,7 @@
 #The client should provide the file path of the file to be transferred.
 #The server should specify the directory where the received file will be saved.
 #Ensure error handling for file I/O operations, socket connections, and pickling/unpickling.
+
+
+#######################
+#I answered this question in the folder q1_answer, where u wil be able to see the client, and server files as well as a directory that the server saves the file into
