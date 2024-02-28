@@ -33,7 +33,7 @@ def main():
     except Exception as e:  # exception handling
         print("Error:", e)
 
-    client_socket.close()  # Close socket
+    client_socket.close()  # Close socket 
 
 if __name__ == "__main__":
     main()
