@@ -9,3 +9,6 @@
 #Ensure proper synchronization to handle concurrent access to shared resources (e.g., the list of connected clients).
 #Allow clients to join and leave the chat room dynamically while maintaining active connections with other clients.
 #Use pickling to serialize and deserialize messages exchanged between clients and the server.
+
+#######################
+#I answered this question in the folder q2_answer, where u wil be able to see the client, and server files
