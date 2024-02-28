@@ -8,3 +8,7 @@
 #Implement a protocol for serializing and deserializing tasks using pickling.
 #Handle task distribution, execution, and result retrieval in both the client and worker nodes.
 #Ensure fault tolerance and scalability by handling connection errors, timeouts, and dynamic addition/removal of worker nodes.
+
+
+#######################
+#I answered this question in the folder q2_answer, where u wil be able to see the client, and server files
