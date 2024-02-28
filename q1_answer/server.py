@@ -14,7 +14,7 @@ def save_file_from_client(file_data, save_path):
 
 def main():
     host = "127.0.0.1"
-    port = 12345 
+    port = 8080 
     save_directory = "files_recieved/"  # Directory to put recieved file into
 
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  # Create socket

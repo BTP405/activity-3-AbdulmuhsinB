@@ -14,7 +14,7 @@ def pickle_file(file_path):
 
 def main():
     host = "127.0.0.1"
-    port = 12345
+    port = 8080
 
     file_path = input("Enter the path of the file to be transferred: ")  # enter file path
 
